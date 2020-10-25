@@ -1,4 +1,6 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![Build Status](https://travis-ci.com/spinsage/fastify-js-starter-rest.svg?branch=main)](https://travis-ci.com/spinsage/fastify-js-starter-rest)
+[![Black Duck Security Risk](https://copilot.blackducksoftware.com/github/repos/spinsage/fastify-js-starter-rest/branches/main/badge-risk.svg)](https://copilot.blackducksoftware.com/github/repos/spinsage/fastify-js-starter-rest/branches/main)
 [![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/spinsage/fastify-js-starter-rest.svg)](http://isitmaintained.com/project/spinsage/fastify-js-starter-rest "Average time to resolve an issue")
 [![Percentage of issues still open](http://isitmaintained.com/badge/open/spinsage/fastify-js-starter-rest.svg)](http://isitmaintained.com/project/spinsage/fastify-js-starter-rest "Percentage of issues still open")
 
