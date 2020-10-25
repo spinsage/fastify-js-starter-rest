@@ -4,3 +4,12 @@
 
 # Fastify Rest API Starter
 Boilerplate project for bootstrapping development of a Rest API application with NodeJS and Fastify
+
+# LICENSE
+**Fastify Rest API Starter** is Apache 2-licensed.
+<br><br>
+
+# Let us know!
+We at [**Spinsage Technologies**](https://www.spinsage.com/) would be happy if you send us links to your projects where you are using our code. Just send us an email at opensource@spinsage.com. 
+
+And do let us know if you have any queries or suggestions regarding our work.
