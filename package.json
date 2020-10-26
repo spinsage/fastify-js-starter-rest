@@ -1,0 +1,35 @@
+{
+  "name": "fastify-js-starter-rest",
+  "version": "1.0.0",
+  "description": "Boilerplate project for bootstrapping development of a Rest API application with NodeJS and Fastify ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev:start": "nodemon",
+    "lint": "eslint index.js src/**"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spinsage/fastify-js-starter-rest.git"
+  },
+  "keywords": [
+    "fastify"
+  ],
+  "author": "spinsage",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/spinsage/fastify-js-starter-rest/issues"
+  },
+  "homepage": "https://github.com/spinsage/fastify-js-starter-rest#readme",
+  "dependencies": {
+    "fastify": "^3.7.0",
+    "fastify-cors": "^4.1.0",
+    "moment": "^2.29.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.12.0",
+    "eslint-config-standard": "^15.0.0",
+    "nodemon": "^2.0.6"
+  }
+}
