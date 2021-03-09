@@ -4,7 +4,7 @@
 [![Black Duck Security Risk](https://copilot.blackducksoftware.com/github/repos/spinsage/fastify-js-starter-rest/branches/main/badge-risk.svg)](https://copilot.blackducksoftware.com/github/repos/spinsage/fastify-js-starter-rest/branches/main)
 [![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/spinsage/fastify-js-starter-rest.svg)](http://isitmaintained.com/project/spinsage/fastify-js-starter-rest "Average time to resolve an issue")
 [![Percentage of issues still open](http://isitmaintained.com/badge/open/spinsage/fastify-js-starter-rest.svg)](http://isitmaintained.com/project/spinsage/fastify-js-starter-rest "Percentage of issues still open")
-[![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/gitterHQ/gitter)
+[![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/spinsage/community)
 
 # Fastify Rest API Starter
 Boilerplate project for bootstrapping development of a Rest API application with NodeJS and Fastify
