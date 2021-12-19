@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/spinsage/fastify-js-starter-rest#readme",
   "dependencies": {
-    "fastify": "^3.9.2",
+    "fastify": "^3.24.0",
     "fastify-cors": "^5.1.0",
     "moment": "^2.29.1"
   },
