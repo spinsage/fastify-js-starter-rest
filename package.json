@@ -23,13 +23,13 @@
   },
   "homepage": "https://github.com/spinsage/fastify-js-starter-rest#readme",
   "dependencies": {
-    "fastify": "^3.24.0",
-    "fastify-cors": "^5.1.0",
+    "fastify": "^3.25.2",
+    "fastify-cors": "^6.0.2",
     "moment": "^2.29.1"
   },
   "devDependencies": {
     "eslint": "^7.13.0",
     "eslint-config-standard": "^16.0.3",
-    "nodemon": "^2.0.12"
+    "nodemon": "^2.0.15"
   }
 }
