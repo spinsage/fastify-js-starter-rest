@@ -1,4 +1,4 @@
-const port = process.env.PORT || 8080;
+const port = process.env.PORT || 3001;
 
 const fastify = require('fastify')({
     logger: true
@@ -12,7 +12,7 @@ if (process.env.NODE_ENV !== 'production') {
 
 fastify.register(require('./src/routes'));
 
-fastify.listen(port, (err, address) => {
+fastify.listen(port, '0.0.0.0', (err) => {
     if (err) {
         fastify.log.error(err);
         process.exit(1);
