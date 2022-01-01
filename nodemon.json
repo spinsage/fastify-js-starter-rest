@@ -1,6 +1,9 @@
 {
-    "watch": ["src", "index.js"], 
-    "exec": "node index.js", 
+    "watch": [
+        "src",
+        "app.js"
+    ],
+    "exec": "node app.js",
     "env": {
         "PORT": 3001
     }
