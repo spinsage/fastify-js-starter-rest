@@ -4,7 +4,7 @@
   "description": "Boilerplate project for bootstrapping development of a Rest API application with NodeJS and Fastify ",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "tap",
     "start": "node app.js",
     "start-dev": "nodemon",
     "lint": "eslint app.js src/**"
@@ -31,6 +31,7 @@
   "devDependencies": {
     "eslint": "^7.32.0",
     "eslint-config-standard": "^16.0.3",
-    "nodemon": "^2.0.15"
+    "nodemon": "^2.0.15",
+    "tap": "^15.1.6"
   }
 }
