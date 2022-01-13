@@ -1,6 +1,6 @@
 {
   "name": "fastify-js-starter-rest",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Boilerplate project for bootstrapping development of a Rest API application with NodeJS and Fastify ",
   "main": "app.js",
   "scripts": {
