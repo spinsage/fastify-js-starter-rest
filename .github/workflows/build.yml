@@ -1,5 +1,5 @@
 
-name: Node.js CI
+name: Faster Starter CI
 
 on:
   push:
