@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/spinsage/fastify-js-starter-rest#readme",
   "dependencies": {
-    "dotenv": "^16.0.0",
+    "dotenv": "^16.0.1",
     "fastify": "^3.27.3",
     "fastify-cors": "^6.0.3",
     "moment": "^2.29.1"
